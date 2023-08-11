@@ -14,3 +14,4 @@ I'm a Developer based in the Bay Area. I love soccer, good coffee, and coding. W
 * <a href="https://github.com/brandon-cor/playeranalysis">Player Analysis</a> - Python script which can scrape through Excel sheets of soccer player data
 
 ![Brandon's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-cor&layout=compact&theme=transparent)
+![](https://komarev.com/ghpvc/?username=brandon-cor&style=flat-square)
