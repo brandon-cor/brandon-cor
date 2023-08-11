@@ -1,5 +1,5 @@
 ## Hi, I'm Brandon. 
-I'm a Developer based in the Bay Area. I love soccer, good coffee, and coding. Web Developer @ UC Santa Cruz.
+I'm a developer based in the SF Bay Area. I love soccer, good coffee, and coding. Web Developer @ UC Santa Cruz.
 
 ### Get In Touch
 <a href="mailto:15brandon51@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/brandon-corona-bhardwaj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://brandoncoronabhardwaj.com"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
