@@ -10,7 +10,7 @@ I'm a developer based in the SF Bay Area. I love soccer, good coffee, and coding
 
 
 ### My Favorite Project Repos
-* <a href="https://github.com/brandon-cor/contact-app"> E-Commerce Page </a> - Fictious business page built using Woocommerce
+* <a href="https://github.com/brandon-cor/chicagowoodfloor"> E-Commerce Page </a> - Fictious business page built using Woocommerce
 * <a href="https://github.com/brandon-cor/playeranalysis">Player Analysis</a> - Python script which can scrape through Excel sheets of soccer player data
 
 ![Brandon's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-cor&layout=compact&theme=transparent)
