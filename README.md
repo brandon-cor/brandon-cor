@@ -13,6 +13,4 @@ I'm a web developer based in the SF Bay Area.
 * <a href="https://github.com/brandon-cor/chicagowoodfloor"> E-Commerce Page </a> - Fictious business page built using Woocommerce
 * <a href="https://github.com/brandon-cor/playeranalysis">Player Analysis</a> - Python script which can scrape through Excel sheets of soccer player data
 
-![Brandon's used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-cor&layout=compact&theme=transparent)
-
 ![](https://komarev.com/ghpvc/?username=brandon-cor&style=flat-square)
